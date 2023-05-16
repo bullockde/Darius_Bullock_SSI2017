@@ -17,7 +17,7 @@
 
 <?php do_action( 'bp_before_profile_content' ); ?>
 
-<div class="profile" role="main">test
+<div class="profile" role="main">test new
 
 	<?php
 		// Profile Edit
